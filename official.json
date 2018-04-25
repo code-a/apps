@@ -6,13 +6,6 @@
         "state": "validated",
         "url": "https://github.com/YunoHost-Apps/my_webapp_ynh"
     },
-    "synapse": {
-        "branch": "master",
-        "level": 7,
-        "revision": "6ebc6d60870a761e8ce04eb4b772dd62a5729f6f",
-        "state": "validated",
-        "url": "https://github.com/YunoHost-Apps/synapse_ynh"
-    },
     "zerobin": {
         "branch": "master",
         "level": 7,
